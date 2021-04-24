@@ -1,0 +1,3 @@
+nombre = input('Introduzca usuario: ')
+print('Hello ', nombre)
+
